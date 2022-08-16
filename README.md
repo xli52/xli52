@@ -14,7 +14,7 @@
 
 - 📄 My past experience: [Resume](https://drive.google.com/file/d/1Ys0nkJufpkCI0RGh4j7jtPGg1peLsUIi/view?usp=sharing)
 
-- 🌱 I’m currently learning: TypeScript and AWS
+- 🌱 I’m currently learning: TypeScript and Redux
 
 - 💪 My 2022 goal: contribute to open source projects
 
