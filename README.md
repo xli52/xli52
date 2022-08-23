@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm Xiang (shee·ang) Li</h1>
 
-<p align="left">A full-stack developer 👨🏻‍💻💻🛠 with a background in Structural Engineering. I've always being passionate about designing things that could benefit others. Since graduation, and I've been designing bridges across Canada for 6 year 👷🏻‍♂️📐📝. Now I'm starting a new journey as a web developer, with the same passion for applying my knowledge and skills to create functional products that would benefit as many people as possible.</p>
+<p align="left">A Full Stack Developer 👨🏻‍💻💻🛠 with a background in Structural Engineering. I've always being passionate about designing things that could benefit others. Since graduation, and I've been designing bridges across Canada for 6 year 👷🏻‍♂️📐📝. Now I'm starting a new journey as a web developer, with the same passion for applying my knowledge and skills to create functional products that would benefit as many people as possible.</p>
 
 <img width='400' align='right' alt="Coding"  src='https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966'>
 
