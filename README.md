@@ -14,10 +14,6 @@
 
 - 📄 My past experience: [Resume](https://drive.google.com/file/d/1Ys0nkJufpkCI0RGh4j7jtPGg1peLsUIi/view?usp=sharing)
 
-- 🌱 I’m currently learning: TypeScript and Redux
-
-- 💪 My 2022 goal: contribute to open source projects
-
 - 🔗 Connect with me: 
 <a href="https://linkedin.com/in/xl-14947353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xl-14947353" height="20" width="30" /></a>
 <a href="https://instagram.com/xli_fit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xli_fit" height="20" width="30" /></a>
